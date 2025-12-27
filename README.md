@@ -1,2 +1,1 @@
-# Task Manager App 
-This is a simple task manager application.
+# Task Manager - Edited by Owner
