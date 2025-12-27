@@ -1,2 +1,1 @@
-# Task Manager App 
-simple test app.
+# Task Manager - Collaborator Version
