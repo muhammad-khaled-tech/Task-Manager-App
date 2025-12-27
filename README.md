@@ -1,2 +1,2 @@
 # Task Manager App 
-simple test app.
+This is a simple task manager application.
